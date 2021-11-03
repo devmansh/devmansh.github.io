@@ -5,7 +5,7 @@
 
 
     // Create connection
-$conn = new mysqli('sql211.epizy.com','epiz_28276226','2eTbs1TJG1uCnI','epiz_28276226_manojsharma');
+$conn = new mysqli('sql304.epizy.com','	epiz_30272465','4A7fuo9UaRmuhSV','epiz_30272465_devmansh');
 
 // Check connection
 if ($conn->connect_error) {

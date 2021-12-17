@@ -431,7 +431,7 @@ img.pull-left {
 .pace .pace-progress {
 	background: #F5BD02;
 	position: fixed;
-	z-index: 900;
+	z-index: 0;
 	top: 0;
 	right: 100%;
 	width: 100%;

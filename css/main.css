@@ -1,10 +1,6 @@
 /**
  * =================================================================== 
  *
- *  Kards v1.0 Main Stylesheet
- *  url: styleshout.com
- *  03-01-2016
- *  ------------------------------------------------------------------
  *  TOC:
  *  01. webfonts and iconfonts
  *  02. base style overrides
@@ -23,7 +19,8 @@
  *  15. services
  *  16. stats
  *  17. contact
- *  18. footer
+ *  18. certification
+ *  19. footer
  *
  * =================================================================== 
  */
@@ -2479,7 +2476,30 @@ header .logo a {
 
 /** 
  * ===================================================================
- * 18. footer - (_layout.scss)
+ * 18. certification - (_layout.scss) 
+ *
+ * ------------------------------------------------------------------- 
+ */
+
+ #cert {
+	background: #151515 url(../images/certification/main.jpg) no-repeat center bottom;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100%;
+	min-height: 610px;
+	display: table;
+	position: relative;
+	text-align: center;
+} 
+
+
+
+/** 
+ * ===================================================================
+ * 19. footer - (_layout.scss)
  *
  * ------------------------------------------------------------------- 
  */

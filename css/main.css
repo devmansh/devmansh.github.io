@@ -2241,8 +2241,8 @@ header .logo a {
  */
 #contact {
 	background: #151515;
-	padding-top: 12rem;
-	padding-bottom: 7.2rem;
+	padding-top: 5rem;
+	padding-bottom: 4rem;
 }
 #contact .section-intro h1 {
 	color: white;
@@ -2277,7 +2277,7 @@ header .logo a {
 
 #contact form {
 	margin-top: 0;
-	margin-bottom: 3rem;
+	margin-bottom: 0;
 }
 #contact form .form-field {
 	position: relative;

@@ -1023,9 +1023,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	color: #7d7d7d;
 }
 .section-intro {
-	max-width: 700px;
-	margin-left: auto;
-	margin-right: auto;
+	max-width: 800px;
 	text-align: center;
 	margin-bottom: 3.6rem;
 	position: relative;
@@ -1481,8 +1479,8 @@ header .logo a {
  */
 #about {
 	background: #ffffff;
-	padding-top: 12rem;
-	padding-bottom: 12rem;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
 }
 #about .section-intro {
 	margin-bottom: 3rem;
@@ -1499,7 +1497,7 @@ header .logo a {
 	height: 10rem;
 	width: 10rem;
 	border-radius: 10%;
-	margin: 2rem 0 0 0;
+	margin: 4rem 0 0 0;
 	border: 2px solid #F5BD02;
 	float: left;
 }

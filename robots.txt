@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://devmansh.github.io/sitemap.xml 
